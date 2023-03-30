@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Dev.to link](https://img.shields.io/badge/dev.to/lexer20%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/lexer20)
-[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/phineus46%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/phieneus46/)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/phineus46%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/phineus46/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/ctrl.root%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ctrl.root/)
 [![Medium link](https://img.shields.io/badge/-medium.com/@lexer20-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@lexer20)
 </div>
